@@ -1,0 +1,14 @@
+layout_spectrum: 0.953405
+typography_spectrum: 0.4836385
+color:
+  saturation: 0.4767025
+  lightness: 0.5089605
+  brandStrength: 1
+  brandColors:
+    - '#D7C8B3'
+    - '#A45C5B'
+    - '#4C4130'
+    - '#FFFFFB'
+    - '#5CFFFF'
+  rhythmicContrast: 0.5573477
+name: Ed Stevens
